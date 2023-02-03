@@ -53,3 +53,9 @@ C:\Users\57301\Desktop\laravel\ConsumoApi\ConsumoAngular\Reto\ApiRest\ApiRestTes
 C:\Users\57301\Desktop\laravel\ConsumoApi\ConsumoAngular\Reto\ApiRest\ApiRestTest\ApiRestTest\bin\MCD\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\57301\Desktop\laravel\ConsumoApi\ConsumoAngular\Reto\ApiRest\ApiRestTest\ApiRestTest\bin\MCD\Debug\net6.0\System.Text.Json.dll
 C:\Users\57301\Desktop\laravel\ConsumoApi\ConsumoAngular\Reto\ApiRest\ApiRestTest\ApiRestTest\bin\MCD\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\57301\Desktop\laravel\ConsumoApi\ConsumoAngular\Reto\ApiRest\ApiRestTest\ApiRestTest\bin\MCD\Debug\net6.0\System.Web.Cors.dll
+C:\Users\57301\Desktop\laravel\ConsumoApi\ConsumoAngular\Reto\ApiRest\ApiRestTest\ApiRestTest\bin\MCD\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\57301\Desktop\laravel\ConsumoApi\ConsumoAngular\Reto\ApiRest\ApiRestTest\ApiRestTest\bin\MCD\Debug\net6.0\System.Web.Http.dll
+C:\Users\57301\Desktop\laravel\ConsumoApi\ConsumoAngular\Reto\ApiRest\ApiRestTest\ApiRestTest\bin\MCD\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\57301\Desktop\laravel\ConsumoApi\ConsumoAngular\Reto\ApiRest\ApiRestTest\ApiRestTest\bin\MCD\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\57301\Desktop\laravel\ConsumoApi\ConsumoAngular\Reto\ApiRest\ApiRestTest\ApiRestTest\bin\MCD\Debug\net6.0\Newtonsoft.Json.Bson.dll

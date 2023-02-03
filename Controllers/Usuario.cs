@@ -9,7 +9,7 @@ namespace ApiRestTest.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [EnableCors(MyAllowSpecificOrigins:"localhost:4200")]
+    [EnableCors()]
     public class Usuario : ControllerBase
     {
         IUsuariosService usuarioservice;
@@ -17,7 +17,7 @@ namespace ApiRestTest.Controllers
         {
             usuarioservice= _usuarioservice;
         }
-        // GET: api/<Usuario>
+       
         [HttpGet]
         public IActionResult Get()
         {
@@ -25,7 +25,7 @@ namespace ApiRestTest.Controllers
         }
 
     
-        // POST api/<Usuario>
+       
         [HttpPost]
         public IActionResult Post([FromBody] UsuarioModel usuario)
         {
@@ -33,7 +33,7 @@ namespace ApiRestTest.Controllers
             return Ok();
         }
 
-        // PUT api/<Usuario>/5
+        
         [HttpPut("{id}")]
         public IActionResult Put(Guid id, [FromBody] UsuarioModel usuario)
         {
@@ -41,7 +41,7 @@ namespace ApiRestTest.Controllers
             return Ok();
         }
 
-        // DELETE api/<Usuario>/5
+       
         [HttpDelete("{id}")]
         public IActionResult Delete(Guid id)
         {
